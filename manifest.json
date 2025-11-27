@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "AutoLoop",
+    "description": "activate on any tab to start a autoloop on any video",
+    "action": {
+        "default_popup": "popup.html"
+    }
+    
+}

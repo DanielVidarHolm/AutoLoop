@@ -1,3 +1,5 @@
+import $ from "jquery";
+
 $(function(){
 
     let $videoPlayer = $('video:visible').first()
